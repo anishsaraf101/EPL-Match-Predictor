@@ -44,7 +44,7 @@ pip install pandas requests beautifulsoup4 scikit-learn
 
 ## Results
 
-The current model achieves around **66% accuracy** in predicting match outcomes.
+The current model achieves around **67% accuracy** in predicting match outcomes.
 
 ## License
 
